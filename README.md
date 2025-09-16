@@ -1,4 +1,4 @@
-# Terméknyilvántartó (C# .NET Windows Forms)
+# Terméknyilvántartó (C# Windows Forms)
 
 Ez a projekt egy egyetemi beadandó keretében készült **C# alkalmazás**, amely termékek nyilvántartását valósítja meg.
 
