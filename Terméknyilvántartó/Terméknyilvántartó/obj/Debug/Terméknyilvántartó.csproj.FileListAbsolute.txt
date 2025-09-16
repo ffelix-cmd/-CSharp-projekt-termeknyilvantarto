@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\bin\Debug\Terméknyilvántartó.exe.config
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\bin\Debug\Terméknyilvántartó.exe
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\bin\Debug\Terméknyilvántartó.pdb
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.Properties.Resources.resources
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.exe
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.pdb
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.UjTermekForm.resources
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.ModositoForm.resources
+C:\Users\felix\source\repos\Terméknyilvántartó\Terméknyilvántartó\obj\Debug\Terméknyilvántartó.Terméknyilvántartó.resources
