@@ -1,6 +1,6 @@
 # Terméknyilvántartó (C# .NET Windows Forms)
 
-Ez egy egyetemi beadandó keretében készült **C# alkalmazás**, amely termékek nyilvántartását valósítja meg.
+Ez a projekt egy egyetemi beadandó keretében készült **C# alkalmazás**, amely termékek nyilvántartását valósítja meg.
 
 ## Fő funkciók
 - Termékek kezelése (felvétel, módosítás, törlés, listázás)
