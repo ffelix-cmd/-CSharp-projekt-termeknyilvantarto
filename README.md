@@ -12,4 +12,4 @@ Ez egy egyetemi beadandó keretében készült **C# alkalmazás**, amely termék
 - **Windows Forms**
   
 ## Működése
-A program induláskor betölti a `Termekek.txt` fájl tartalmát, majd lehetőséget ad új termékek hozzáadására, meglévők módosítására vagy törlésére. Kilépéskor a változtatások elmentődnek.
+A program induláskor betölti a `Termekek.txt` fájl tartalmát, majd lehetőséget ad új termékek hozzáadására, meglévők módosítására vagy törlésére. Kilépéskor a változtatások automatikusan elmentődnek.
